@@ -4,12 +4,12 @@
         <hr>
     </p>
     <div>
-        <span><a href="#" target="blank">
+        <a href="#" target="blank">
             <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=iamstrawberry&show_icons=true&theme=dark&count_private=true&hide_border=true&card_width=500&title_color=fff&icon_color=79ff97&text_color=9f9f9f&ring_color=79ff97&custom_title=Stats&include_all_commits=true'>
-        </a></span>
-        <span><a href="#" target="blank">
+        </a>
+        <a href="#" target="blank">
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamstrawberry&theme=dark&card_width=500&hide_border=true" />
-        </a></span><br>
+        </a><br>
         <a href="#" target="blank">
             <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=iamstrawberry&theme=dark&hide_border=true&hide=html,css&card_width=1000&title_color=fff">
         </a>
