@@ -4,10 +4,9 @@
         <hr>
     </p>
     <div>
-        <span><a href="#" target="blank">
+        <a href="#" target="blank">
             <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=iamstrawberry&show_icons=true&theme=dark&count_private=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&ring_color=79ff97&custom_title=Stats&include_all_commits=true'>
-        </a></span>
-        <br>
+        </a>
         <a href="#" target="blank">
             <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=iamstrawberry&theme=dark&hide_border=true&hide=html,css&langs_count=10&layout=compact&title_color=fff">
         </a>
