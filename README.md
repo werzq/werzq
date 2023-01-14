@@ -9,7 +9,7 @@
         </a></span>
         <br>
         <a href="#" target="blank">
-            <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=iamstrawberry&theme=dark&hide_border=true&hide=html,css&card_width=1000&title_color=fff">
+            <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=iamstrawberry&theme=dark&hide_border=true&hide=html,css&langs_count=10&card_width=1000&title_color=fff">
         </a>
         <hr>
     </div>
