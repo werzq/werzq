@@ -25,6 +25,8 @@
         <img src="https://img.shields.io/static/v1?label=&message=java&color=%23151515&style=for-the-badge&logo=oracle" alt="java">
         <img src="https://img.shields.io/static/v1?label=&message=Scala&color=%23151515&style=for-the-badge&logo=Scala" alt="scala">
         <img src="https://img.shields.io/static/v1?label=&message=Kotlin&color=%23151515&style=for-the-badge&logo=Kotlin" alt="kotlin">
+        <img src="https://img.shields.io/static/v1?label=&message=Csharp&color=%23151515&style=for-the-badge&logo=Csharp" alt="Csharp">
+        <img src="https://img.shields.io/static/v1?label=&message=lua&color=%23151515&style=for-the-badge&logo=Lua&logoColor=darkblue" alt="lua">
         <img src="https://img.shields.io/static/v1?label=&message=python&color=%23151515&style=for-the-badge&logo=python" alt="python">
         <img src="https://img.shields.io/static/v1?label=&message=scratch&color=%23151515&style=for-the-badge&logo=Scratch&logoColor=%23FFAB1A" alt="scratch">
     </div>
@@ -46,5 +48,13 @@
         <img src="https://img.shields.io/static/v1?label=&message=polymer&color=%23151515&style=for-the-badge&logo=google" alt="polymer">
         <img src="https://img.shields.io/static/v1?label=&message=three.js&color=%23151515&style=for-the-badge&logo=Three.js" alt="three.js">
         <img src="https://img.shields.io/static/v1?label=&message=socket.io&color=%23151515&style=for-the-badge&logo=Socket.io" alt="socket.io">
+    </div>
+    <div>
+        <h3>Databases:</h3>
+        <img src="https://img.shields.io/static/v1?label=&message=oracle&color=%23151515&style=for-the-badge&logo=oracle" alt="oracle">
+        <img src="https://img.shields.io/static/v1?label=&message=PostgreSQL&color=%23151515&style=for-the-badge&logo=PostgreSQL" alt="PostgreSQL">
+        <img src="https://img.shields.io/static/v1?label=&message=MySQL&color=%23151515&style=for-the-badge&logo=MySQL" alt="MySQL">
+        <img src="https://img.shields.io/static/v1?label=&message=MongoDB&color=%23151515&style=for-the-badge&logo=MongoDB" alt="MongoDB">
+        <img src="https://img.shields.io/static/v1?label=&message=SQLite&color=%23151515&style=for-the-badge&logo=SQLite" alt="SQLite">
     </div>
 </div>
