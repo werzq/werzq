@@ -52,7 +52,7 @@
     <div>
         <h3>Databases:</h3>
         <img src="https://img.shields.io/static/v1?label=&message=oracle&color=%23151515&style=for-the-badge&logo=oracle" alt="oracle">
-        <img src="https://img.shields.io/static/v1?label=&message=Postgre+SQL&color=%23151515&style=for-the-badge&logo=PostgreSQL" alt="PostgreSQL">
+        <img src="https://img.shields.io/static/v1?label=&message=PostgreSQL&color=%23151515&style=for-the-badge&logo=PostgreSQL" alt="PostgreSQL">
         <img src="https://img.shields.io/static/v1?label=&message=MySQL&color=%23151515&style=for-the-badge&logo=MySQL" alt="MySQL">
         <img src="https://img.shields.io/static/v1?label=&message=Mongo+DB&color=%23151515&style=for-the-badge&logo=MongoDB" alt="MongoDB">
         <img src="https://img.shields.io/static/v1?label=&message=SQLite&color=%23151515&style=for-the-badge&logo=SQLite" alt="SQLite">
