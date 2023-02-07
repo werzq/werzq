@@ -5,14 +5,25 @@
 
 ## Things that i know:
 <div align='center'>
-  <img src="https://img.shields.io/static/v1?label=&message=web+dev&color=%2323151515&style=for-the-badge&logo=googlechrome&logoColor=white" alt="web_dev">
-  <img src="https://img.shields.io/static/v1?label=&message=node.js&color=%2323151515&style=for-the-badge&logo=node.js&logoColor=white" alt="node.js">
-  <img src="https://img.shields.io/static/v1?label=&message=jquery&color=%2323151515&style=for-the-badge&logo=jquery&logoColor=white" alt="jquery">
-  <img src="https://img.shields.io/static/v1?label=&message=three.js&color=%2323151515&style=for-the-badge&logo=three.js&logoColor=white" alt="three.js">
-  <img src="https://img.shields.io/static/v1?label=&message=typescript&color=%2323151515&style=for-the-badge&logo=typescript&logoColor=white" alt="typescript">
-  <img src="https://img.shields.io/static/v1?label=&message=coffeescript&color=%2323151515&style=for-the-badge&logo=coffeescript&logoColor=white" alt="coffeescript">
-  <img src="https://img.shields.io/static/v1?label=&message=python&color=%2323151515&style=for-the-badge&logo=python&logoColor=white" alt="python">
-  <img src="https://img.shields.io/static/v1?label=&message=c+sharp&color=%2323151515&style=for-the-badge&logo=csharp&logoColor=white" alt="c sharp">
-  <img src="https://img.shields.io/static/v1?label=&message=sqlite&color=%2323151515&style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite">
-  <img src="https://img.shields.io/static/v1?label=&message=postgresql&color=%2323151515&style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql">
+<img src="https://img.shields.io/static/v1?label=&message=web+dev&color=%2323151515&style=for-the-badge&logo=googlechrome&logoColor=white" alt="web_dev">
+<img src="https://img.shields.io/static/v1?label=&message=node.js&color=%2323151515&style=for-the-badge&logo=node.js&logoColor=white" alt="node.js">
+<img src="https://img.shields.io/static/v1?label=&message=jquery&color=%2323151515&style=for-the-badge&logo=jquery&logoColor=white" alt="jquery">
+<img src="https://img.shields.io/static/v1?label=&message=three.js&color=%2323151515&style=for-the-badge&logo=three.js&logoColor=white" alt="three.js">
+<img src="https://img.shields.io/static/v1?label=&message=typescript&color=%2323151515&style=for-the-badge&logo=typescript&logoColor=white" alt="typescript">
+<img src="https://img.shields.io/static/v1?label=&message=coffeescript&color=%2323151515&style=for-the-badge&logo=coffeescript&logoColor=white" alt="coffeescript">
+<img src="https://img.shields.io/static/v1?label=&message=python&color=%2323151515&style=for-the-badge&logo=python&logoColor=white" alt="python">
+<img src="https://img.shields.io/static/v1?label=&message=c+sharp&color=%2323151515&style=for-the-badge&logo=csharp&logoColor=white" alt="c sharp">
+<img src="https://img.shields.io/static/v1?label=&message=sqlite&color=%2323151515&style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite">
+<img src="https://img.shields.io/static/v1?label=&message=postgresql&color=%2323151515&style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql">
 </div>
+<h6>
+<details>
+<summary>Github Stats</summary>
+<p><b>Note:</b>These stats are only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
+<div align='center'>
+<a href="#" target="blank">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=iamstrawberry&theme=dark&hide_border=true&hide=html,css&langs_count=10&card_width=500&layout=compact&title_color=fff">
+</a>
+</div>
+</details>
+</h6>
