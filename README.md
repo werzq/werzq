@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=black&height=60&section=header"/>
-</p>
-
 # 👋 السلام علیکم **`Hello`** **`Hola`** **`Sveiki`** **`Привет`** **`你好`** **`Hallo`**
 I'm **wQ**
 
@@ -31,7 +27,3 @@ I'm **wQ**
 </div>
 </details>
 </h6>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=black&height=60&section=footer"/>
-</p>
