@@ -27,3 +27,6 @@
 </div>
 </details>
 </h6>
+<div align='right'>
+  <img src="https://komarev.com/ghpvc/?username=iamstrawberry&label=views&color=232315&style=flat-square" alt="views">
+</div>
