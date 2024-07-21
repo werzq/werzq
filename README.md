@@ -1,5 +1,5 @@
 # 👋 السلام علیکم **`Hello`** **`Hallo`** **`Hola`** **`Sveiki`** **`你好`** **`Привет`**
-**I'm wQ**<br>A 15 year old who somehow knows how to code.
+**I'm wQ**<br>A 17 year old who somehow knows how to code.
 
 > Today's scientists have substituted *mathematics* for experiments, and they wander off through equation after equation, and eventually build a structure which has no relation to reality. -Nikola Tesla
 
